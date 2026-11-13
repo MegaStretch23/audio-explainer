@@ -1,0 +1,14 @@
+# How a heat pump works
+
+## Moving heat instead of making it
+A heat pump does not burn fuel to make heat. It moves heat from one place to another, the same way a refrigerator does. In winter it pulls heat from outdoor air and releases it inside. In summer it runs the other way.
+?? Does it work when it is cold outside? :: Yes, down to a point. Heat is still present in cold air, so the unit can still collect it, but it moves less heat per hour as the air gets colder. Each model lists its own low-temperature rating on its spec sheet.
+
+## The refrigerant loop
+A sealed loop of refrigerant does the moving. The refrigerant evaporates in the outdoor coil, which absorbs heat. A compressor squeezes the gas, which makes it hotter. The hot gas gives up its heat in the indoor coil and turns back into a liquid. An expansion valve drops the pressure and the cycle repeats.
+?? What does the compressor do? :: It raises the pressure and temperature of the refrigerant gas so it is hotter than the indoor air and can hand its heat over.
+?? What is the reversing valve? :: A valve that switches the flow direction of the refrigerant, so the same loop can heat in winter and cool in summer.
+
+## Why it can use less electricity
+Because the unit moves heat rather than creating it, it can deliver more heat energy than the electrical energy it consumes. That ratio is called the coefficient of performance, or COP. A COP of 3 means three units of heat for each unit of electricity.
+?? What is COP? :: Coefficient of performance: heat delivered divided by electricity used. A COP of 3 means three units of heat per unit of electricity, measured under stated test conditions.

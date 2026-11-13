@@ -1,0 +1,8 @@
+{
+ "typed": "does it work when its cold outside",
+ "matched": {
+  "q": "Does it work when it is cold outside?",
+  "a": "Yes, down to a point. Heat is still present in cold air, so the unit can still collect it, but it moves less heat per hour as the air gets colder. Each model lists its own low-temperature rating on its spec sheet."
+ },
+ "shared_words": 3
+}
